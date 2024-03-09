@@ -92,9 +92,8 @@ a:active {
 
 .card-services a {
     display: block;
-    padding: calc(2 * var(--font-size-medium)) 0;
+    padding: 2rem;
     background-color: var(--color-light-grey);
-    text-decoration: none;
 }
 
 .card-services a:hover {
